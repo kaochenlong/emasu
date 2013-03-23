@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+#logo
+{
+	display:block;
+    position:absolute;	
+	z-index:1;
+	margin-top:-107px;
+	top:50%;
+    left:58px;
+    width:118px;
+    height:214px;
+	
+	overflow:visible;
+	background-image:url(../images/logo1.png);
+	background-repeat:no-repeat;
+}
+
+#logo_about
+{
+	display:block;
+    position:absolute;	
+	top:146px;
+	left:23px;
+    width:71px;
+    height:9px;
+		
+	background-image:url(../images/logo2.png);
+	background-repeat:no-repeat;
+	background-position:0px -9px;
+}
+
+#logo_email
+{
+	display:block;
+    position:absolute;	
+	top:172px;
+	left:18px;
+    width:36px;
+    height:36px;
+	
+	background-image:url(../images/logo3.png);
+	background-repeat:no-repeat;
+}
+
+#logo_mobile
+{
+	display:block;
+    position:absolute;	
+	top:172px;
+	left:66px;
+    width:36px;
+    height:36px;
+
+	background-image:url(../images/logo4.png);
+	background-repeat:no-repeat;	
+}
+
+#logo_mobile_ext
+{
+	display:block;
+    position:absolute;	
+	top:172px;
+	left:66px;
+    width:136px;
+    height:36px;
+	opacity:0;
+	
+	background-image:url(../images/logo5.png);
+	background-repeat:no-repeat;
+}
+
+
+
+
+
